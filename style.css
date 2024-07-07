@@ -23,7 +23,7 @@ p {
 }
 
 .hero {
-  background-image: url('hero.jpg');
+  background-image: url('images/dc.jpg');
   background-size: cover;
   background-position: center;
   padding: 100px 0;
@@ -96,6 +96,10 @@ p {
 .contact {
   padding: 40px 0;
   background-color: #fff;
+}
+
+.contact h2{
+  text-align: center;
 }
 
 .contact form {
